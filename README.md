@@ -24,7 +24,7 @@ Este repositório foi criado para o desafio de carreiras do módulo 02 do curso 
 
 ## Conteúdo Carreira
 
-| Tópico | Descrição | Ícone |
+| Tópico | Descrição | 
 |---|---|---|
 | **Gestão de Tempo** | Desenvolver habilidades de organização e gestão de tempo para otimizar o aprendizado e a produtividade. | ⏱️ |
 | **Currículo e Carta de Apresentação** | Criar um currículo e uma carta de apresentação atraentes e eficazes para destacar suas habilidades e experiências. |  |
