@@ -12,8 +12,8 @@ Este repositório foi criado para o desafio de carreiras do módulo 02 do curso 
 
 ## Conteúdo Técnico
 
-| Tópico | Descrição | Ícone |
-|---|---|---|
+| Tópico | Descrição |
+|---|---|
 | **Funções** | Aprimorar o uso de funções para modularizar o código e torná-lo mais reutilizável. | ️ |
 | **Tipos de Dados II** | Aprofundar o conhecimento sobre tipos de dados primitivos e compostos em JavaScript. | ️ |
 | **Tipos Utilitários** | Dominar os tipos utilitários para facilitar a manipulação de dados. |  |
@@ -25,7 +25,7 @@ Este repositório foi criado para o desafio de carreiras do módulo 02 do curso 
 ## Conteúdo Carreira
 
 | Tópico | Descrição | 
-|---|---|---|
+|---|---|
 | **Gestão de Tempo** | Desenvolver habilidades de organização e gestão de tempo para otimizar o aprendizado e a produtividade. | ⏱️ |
 | **Currículo e Carta de Apresentação** | Criar um currículo e uma carta de apresentação atraentes e eficazes para destacar suas habilidades e experiências. |  |
 | **LinkedIn: Primeiros Passos** | Construir um perfil profissional no LinkedIn para se conectar com a comunidade de tecnologia e ampliar oportunidades. |  |
@@ -53,4 +53,4 @@ Este repositório foi criado para o desafio de carreiras do módulo 02 do curso 
 * **Métodos de Arrays:** Dominei os métodos de arrays para gerenciar coleções de dados de forma eficiente.
 * **Métodos de Arrays II:** Aprofundei o conhecimento sobre métodos de arrays para realizar operações complexas com dados.
 * **Gestão de Tempo:** Comecei a desenvolver habilidades de organização e gestão de tempo para otimizar o aprendizado e a produtividade.
-* **Currículo e Carta de Apresentação:** Iniciei a criação de
+* **Currículo e Carta de Apresentação:** Iniciei a criação de um curriculo e elaboração de uma carta de apresentação.
